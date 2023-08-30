@@ -1,2 +1,0 @@
-# kamus
-testing
